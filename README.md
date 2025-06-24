@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Junior Data Scientist and Data Analyst passionate about working with data, statistics, and machine learning.  
+I'm a Data Scientist and Data Analyst passionate about working with data, statistics, and machine learning.  
 
 I am constantly learning and improving my skills in analytics and machine learning.
 
