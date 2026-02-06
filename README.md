@@ -1,54 +1,87 @@
-<h1 align="center">Hi, I'm Tatiana 👋</h1>
+# Татьяна Вовк
+
+Data Scientist с коммерческим опытом в прикладном машинном обучении и NLP/RAG.
+Работала с табличными ML-моделями, поиском по базам знаний и LLM-системами
+для внутренних сервисов и продуктовых прототипов.
+
+В портфолио представлены публичные версии проектов, демонстрирующие
+архитектурные и ML-подходы.
 
 ---
 
-## 👩‍💻 About Me
+## Основные направления работы
 
-I'm a Data Scientist and Data Analyst passionate about working with data, statistics, and machine learning.  
+- **Прикладное машинное обучение**
+  - Классические ML-модели регрессии и классификации
+  - Фичеинжиниринг, подбор и сравнение моделей
+  - Анализ влияния признаков и интерпретация результатов
 
-I am constantly learning and improving my skills in analytics and machine learning.
+- **NLP и RAG**
+  - Построение систем поиска по базам знаний
+  - Векторный и гибридный retrieval (BM25 + эмбеддинги)
+  - Использование LLM поверх поиска для Q&A и аналитических сценариев
 
----
-
-## 🎓 Education
-
-- Diploma in Professional Retraining: **"Artificial Intelligence"**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left"> <!-- Языки и ядро DS --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/NoSQL-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <!-- Анализ данных --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> <!-- Классический ML --> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/> <img src="https://img.shields.io/badge/LightGBM-014E27?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/> <!-- Нейросети и DL --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <!-- NLP / Chatbot / LLM --> <img src="https://img.shields.io/badge/NLP-9B59B6?style=for-the-badge&logo=OpenAI&logoColor=white" alt="NLP"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/LLM-GPT--4-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4"/> <!-- Среды и инструменты --> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Gradio-FF5C5C?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>  </p>
-
-- A/B testing, hypothesis testing, confidence intervals
+- **LLM-системы и прикладные сервисы**
+  - Проектирование пайплайнов и логики взаимодействия компонентов
+  - Скоринг, правила и пороги под бизнес-задачи
+  - Разработка MVP и внутренних инструментов
 
 ---
 
-## 🚀 Projects
+## Избранные проекты
 
-- [A/B Test Analysis: Shelf Layout Changes](https://github.com/TatianaVovk/ab_test_shelf_layout_analysis)  
-  *Assessing the impact of a new shelf layout on store sales. Statistical testing and business effect calculation.*
+- **TDU (Industrial ML)**
+  - Публичная версия раннего ML-прототипа для оптимизации процесса термической деполимеризации
+  - Репозиторий отражает инженерные и ML-решения, применённые позже в коммерческой реализации проекта
 
-- [Insurance Expenses Prediction](https://github.com/TatianaVovk/insurance_expenses_statistics)  
-  *Predicting insurance costs based on demographic factors. Machine learning modeling (including XGBoost).*
+- **RAG: поиск и Q&A по базе знаний**
+  - Демонстрационный RAG-проект с реализацией retrieval и генерации ответов
+  - Используется как открытая версия для демонстрации подхода и архитектуры
 
----
+- **LLM-MVP для HR-скрининга**
+  - Сервис сопоставления резюме и вакансий с использованием LLM
+  - Реализован скоринг с объяснимой логикой и настраиваемыми порогами
 
-## 📫 Contact
-
-- Email: [vovktanya55@yandex.ru](mailto:vovktanya55@yandex.ru)
-- Telegram: [@T_V_55](https://t.me/T_V_55)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TatianaVovk&show_icons=true&theme=default" alt="Tatiana's GitHub stats"/>
-</p>
+- **AI-аватары и автономные агенты**
+  - LLM-пайплайн с несколькими агентами для генерации и стриминга научных диалогов
+  - Акцент на архитектуре, связке компонентов и автоматизации процессов
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! 🚀✨
-</p>
+## Технологии и инструменты
+
+- **Языки и работа с данными**  
+  Python, SQL. Работа с табличными данными: подготовка датасетов, анализ,
+  агрегации, фичеинжиниринг.
+
+- **Машинное обучение**  
+  Классические модели регрессии и классификации: scikit-learn, XGBoost, LightGBM.  
+  Нейронные сети (Feedforward / Fully Connected) в прикладных задачах
+  на PyTorch и Keras. Обучение, валидация, анализ качества и интерпретация моделей.
+
+- **NLP и RAG**  
+  Системы поиска по базе знаний. Векторный и гибридный retrieval (FAISS, BM25),
+  эмбеддинги `intfloat/multilingual-e5-base`.  
+  Использование LLM (Mistral-7B-Instruct) поверх retrieval для Q&A
+  и аналитических сценариев.
+
+- **LLM и генеративные модели**  
+  Использование LLM в прикладных проектах и MVP: Mistral, GPT-4.  
+  Эксперименты с open-source моделями Hugging Face (LLaMA, Qwen)
+  для задач генерации, агентов и скоринга.
+
+- **Разработка и сервисы**  
+  VS Code как основной инструмент разработки.  
+  FastAPI для сборки прикладных сервисов и MVP.  
+  Базовая контейнеризация с использованием Docker.
+
+- **Анализ и визуализация**  
+  Анализ и визуализация результатов экспериментов и качества моделей
+  (Matplotlib, Plotly).
+
+---
+
+## Контакты
+
+- Email: vovktanya55@yandex.ru
+- Telegram: @T_V_55
